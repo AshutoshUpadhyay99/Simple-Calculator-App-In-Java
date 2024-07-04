@@ -503,3 +503,10 @@ public Calculator() {
                 btnPower.setForeground(Color.BLACK);
                 btnRoot.setForeground(Color.BLACK);
                 break;
+            }
+    };
+
+    public static void main(String[] args) {
+        new Calculator();
+    }
+}
